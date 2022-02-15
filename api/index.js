@@ -1,1 +1,1 @@
-module.exports = require('miumi-netlify')
+module.exports = require('miumi-vercel')
